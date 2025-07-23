@@ -1,5 +1,14 @@
 sst
 ===
+Il cliente è BooRoad: come sai, organizza spesso viaggi con accompagnatori in diverse
+destinazioni.
+Lʼesigenza è quella di fornire al team di accompagnatori una rubrica coi dati (nome cognome e
+num. di telefono) dei partecipanti, in modo da poterli contattare tempestivamente in caso di
+necessità mentre si trovano in viaggio.
+Per questo motivo, lʼagenzia ha bisogno di una soluzione “digitaleˮ.
+
+Domande da porre al cliente
+
 1. Sapere se fa parte di un applicativo esistente oppure uno standalone.
 
 2. proporre/chiedere di creare un'app dove ogni operatore può accedere
