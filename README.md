@@ -18,7 +18,7 @@ M
 3. Sapere se fa parte di un applicativo esistente oppure uno standalone.
 R
 
-4. proporre/chiedere di creare un'app dove ogni operatore può accedere
+4. Chiedere se ci sono più operatori per gruppo
 A
 
 5. Come riceviamo le informazioni dei clienti.
