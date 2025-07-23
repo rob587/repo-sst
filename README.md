@@ -9,15 +9,15 @@ Per questo motivo, lʼagenzia ha bisogno di una soluzione “digitaleˮ.
 
 Domande da porre al cliente
 
-1. Sapere se fa parte di un applicativo esistente oppure uno standalone.
+1. Chiedere al cliente come si immagina il prodotto finale.(app o sito)
 
-2. proporre/chiedere di creare un'app dove ogni operatore può accedere
+2. Chiedere se ha deadline.
 
-3. Come riceviamo le informazioni dei clienti.
+3. Sapere se fa parte di un applicativo esistente oppure uno standalone.
 
-4. Chiedere se ha deadline.
+4. proporre/chiedere di creare un'app dove ogni operatore può accedere
 
-5. Chiedere al cliente come si immagina il prodotto finale.
+5. Come riceviamo le informazioni dei clienti.
 
 6. Quali tipi di dati deve vedere l'operatore (nome-cognome-numero-destinazione)
 
@@ -25,7 +25,9 @@ Domande da porre al cliente
 
 Bozza app
 
-l'operatore ha a disposizione un quadro generale sul viaggio dei clienti e attraverso questo quadro si può ricavare le informazioni necessarie per contattarlo. chiedere se vuole la funzionalità di ricerca e una check di list di presenze
+l'operatore ha a disposizione un quadro generale sul viaggio e dei partecipanti, attraverso questo quadro l'operatore può ricavare le informazioni di ogni partecipante per contattarlo in caso di necessità.
+ 
+Chiedere se vuole la funzionalità di ricerca e una check list di presenze
 
 
 
