@@ -17,9 +17,9 @@ Domande da porre al cliente
 
 4. Chiedere se ha deadline.
 
-5.Chiedere al cliente come si immagina il prodotto finale.
+5. Chiedere al cliente come si immagina il prodotto finale.
 
-6.Quali tipi di dati deve vedere l'operatore (nome-cognome-numero-destinazione)
+6. Quali tipi di dati deve vedere l'operatore (nome-cognome-numero-destinazione)
 
 
 
