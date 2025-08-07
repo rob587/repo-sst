@@ -92,3 +92,12 @@ un'altra struttura dati è quella degli user (chi effettivamente utilizza l'appl
 
 gli user hanno una gerarchia
 l'applicativo può essere utilizzato sia mobile che desktop
+
+status bar per ogni viaggio
+
+tipologia di utenti:{
+
+amministrazione,
+coordinatori
+
+}
