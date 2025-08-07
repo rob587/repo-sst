@@ -50,6 +50,31 @@ semplicità, minimal
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 il cliente rispondendo alle domande richiede un'applicativo interno per la propria azienda
 l'applicativo prevede l'inserimento dei dati relativi a ogni singolo viaggiatore.
 non hanno avuto un'applicativo in precedenza quindi non abbiamo una base specifica. al momento utilizzano il foglio di calcolo, quindi come inizio si potrebbe creare una funzionalità per recuperare i dati da esso
@@ -62,3 +87,8 @@ phone,
 codiceFiscale,
 emergenza
 }
+
+un'altra struttura dati è quella degli user (chi effettivamente utilizza l'applicativo)
+
+gli user hanno una gerarchia
+l'applicativo può essere utilizzato sia mobile che desktop
