@@ -70,8 +70,21 @@ semplicità, minimal
 
 
 
+Obiettivo del Progetto
+Realizzare un applicativo interno per la gestione dei dati dei viaggiatori dell’azienda, attraverso una web-app. Sarà utilizzata principalmente dai coordinatori e altri utenti interni, con con la possibilità di aggiungere viaggiatori, organizzare viaggi e visualizzare e contattare i partecipanti.
 
 
+Funzionalità e Contenuti
+
+tipologia di utenti:{
+
+amministrazione,
+coordinatori
+
+}
+
+[amministrazione: crea i viaggi, assegna coordinatori,ha accesso completo
+coordinatori: ha accesso ai viaggi a lui assegnati e ne può modificare la lista dei viaggiatori]
 
 
 
@@ -95,9 +108,16 @@ l'applicativo può essere utilizzato sia mobile che desktop
 
 status bar per ogni viaggio
 
-tipologia di utenti:{
 
-amministrazione,
-coordinatori
+l'utente richiede la possibilità oltre che poter avere controllo totale sulla lista di viaggiatori, anche la possibilità di visualizzarne le info e contattarli via mail o telefono
 
-}
+-----
+Esperienza Utente e Utilizzo
+L’app sarà usata principalmente da mobile o da desktop?
+  Sarà utilizzata sia da mobile che da desktop.
+Quanto è importante che la piattaforma funzioni anche offline?
+  Non richiesto per la prima versione. In futuro si. 
+L’interfaccia dovrà adattarsi a tutti i dispositivi (smartphone, tablet, desktop)?
+  Sì, è necessaria una visualizzazione responsive.
+L’app dovrà supportare più lingue?
+ No, solo italiano inizialmente.
