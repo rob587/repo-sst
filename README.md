@@ -71,7 +71,8 @@ semplicità, minimal
 
 
 
-Obiettivo del Progetto
+
+Alexandru: Obiettivo del Progetto
 Realizzare un applicativo interno per la gestione dei dati dei viaggiatori dell’azienda, attraverso una web-app. Sarà utilizzata principalmente dai coordinatori e altri utenti interni, con con la possibilità di aggiungere viaggiatori, organizzare viaggi e visualizzare e contattare i partecipanti.
 Esperienza Utente e Utilizzo
 L’app sarà usata principalmente da mobile o da desktop?
