@@ -9,17 +9,17 @@ Per questo motivo, lʼagenzia ha bisogno di una soluzione “digitaleˮ.
 
 Domande da porre al cliente
 
-1. Chiedere al cliente come si immagina il prodotto finale.(app o sito)
-D
+<!-- 1. Chiedere al cliente come si immagina il prodotto finale.(app o sito)
+D -->
 
 2. Chiedere se ha deadline.
 M
 
-3. Sapere se fa parte di un applicativo esistente oppure uno standalone.
-R
+<!-- 3. Sapere se fa parte di un applicativo esistente oppure uno standalone.
+R -->
 
-4. Chiedere se ci sono più operatori per gruppo
-A
+<!-- 4. Chiedere se ci sono più operatori per gruppo
+A -->
 
 5. Come riceviamo le informazioni dei clienti.
 D
@@ -37,3 +37,28 @@ Chiedere se vuole la funzionalità di ricerca e una check list di presenze
 
 
 
+gruppo 2 domande
+
+esportazione dati
+
+quanti partecipanti/suddivisione
+
+
+gruppo 4 domande
+
+semplicità, minimal
+
+
+
+il cliente rispondendo alle domande richiede un'applicativo interno per la propria azienda
+l'applicativo prevede l'inserimento dei dati relativi a ogni singolo viaggiatore.
+non hanno avuto un'applicativo in precedenza quindi non abbiamo una base specifica. al momento utilizzano il foglio di calcolo, quindi come inizio si potrebbe creare una funzionalità per recuperare i dati da esso
+
+
+la struttura dati del viaggiatore è composta da : {
+nome,
+email,
+phone,
+codiceFiscale,
+emergenza
+}
